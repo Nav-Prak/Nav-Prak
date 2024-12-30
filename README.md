@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Nav-Prak
-- 👀 I’m interested in all things security
-- 🌱 I’m currently learning Smart Contracts
-- 💞️ I’m looking to collaborate on Bug Bounty programs
-- 📫 How to reach me [Twitter](https://twitter.com/NPrakaasham)
-- Portfolio site : [https://navprak.eth.limo/](https://navprak.eth.limo/)
+- 🔐 I’m passionate about cybersecurity and software development
+- 🌱 I’m currently advancing my skills in AI, machine learning, and cloud technologies
+- 🛠️ I’m looking to collaborate on innovative projects, including bug bounty programs and software engineering challenges
+- 📫 How to reach me: LinkedIn
+- 🌐 Portfolio site: https://navprak.eth.limo/
 
 <!---
 Nav-Prak/Nav-Prak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
